@@ -14,7 +14,7 @@ No fear! I you get stuck with Colmena there are several ways to get support.
 
 A lot of times it can help to run `npm run clean` followed by `npm run install` to get the project in a clean state.
 
-In case of any problems running Colmena or a command in it's project folder this is the first thing you should try.
+In case of any problems running Colmena or a command in its project folder this is the first thing you should try.
 
 ## I have problems using Colmena
 
