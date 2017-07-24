@@ -12,7 +12,7 @@ Colmena ([kolˈmena](https://www.howtopronounce.com/spanish/colmena/)) means *be
 
 - it has a modular design.
 - it aims to be a project that grows by combining forces. 
-- it's founder is known as [beeman](https://github.com/beeman).
+- its founder is known as [beeman](https://github.com/beeman).
 
 ## LoopBack, Angular and the SDK Builder
 
