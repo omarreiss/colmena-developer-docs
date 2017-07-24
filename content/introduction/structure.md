@@ -8,7 +8,7 @@ weight = 2
 
 ## Mono Repo
 
-The project is a mono-repo managed by [lerna](https://lernajs.io). This means that the complete project and all it's 
+The project is a mono-repo managed by [lerna](https://lernajs.io). This means that the complete project and all its 
 related sub-projects live in 1 Git repository. There are several benefits to doing this, especially when using lerna.
 
 Lerna manages the packages in the repository and makes them available to each other. This means you can use software
